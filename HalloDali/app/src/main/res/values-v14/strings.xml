@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HalloDali</string>
+    <string name="hello">
+        Hello\n\n
+        Thanks for installing the Custom Clock widget.
+        You need to add the widget to your home screen to use it.
+        Select the Widget tab within your device application menu.
+        When you find the clock widget, press and hold it,
+        dropping it to add to your screen.
+    </string>
+    <string name="design1">Default design</string>
+    <string name="design2">Stone design</string>
+    <string name="design3">Metal design</string>
+</resources>
