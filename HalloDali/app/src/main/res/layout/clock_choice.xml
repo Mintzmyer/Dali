@@ -35,6 +35,14 @@
             android:contentDescription="@string/design3"
             android:background="#00000000"
             android:padding="5dp" />
+        <ImageButton
+            android:id="@+id/design_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/clock_image_digital"
+            android:contentDescription="@string/design4"
+            android:background="#00000000"
+            android:padding="5dp" />
 
     </LinearLayout>
 </ScrollView>

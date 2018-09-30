@@ -28,5 +28,10 @@
         android:hand_hour="@drawable/clock_hour_hand_metal"
         android:hand_minute="@drawable/clock_minute_hand_metal"
         android:visibility="invisible" />
+    <TextClock
+        android:id="@+id/AnalogClock3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="invisible" />
 
 </RelativeLayout>
